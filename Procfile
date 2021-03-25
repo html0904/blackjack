@@ -1,1 +1,1 @@
-web: gunicorn blackjack.wsgi --log-file
+web: gunicorn blackjack.wsgi
